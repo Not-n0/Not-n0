@@ -4,9 +4,7 @@
     [SYSTEM CORRUPTED]
   </h1>
   
-  <div style="text-align: center; margin: 20px 0;">
-    <img src="URL_FOR_GLITCH_IMAGE" alt="System Glitch" style="width: 100%; max-width: 450px; border: 1px solid #ff0000; filter: contrast(200%); opacity: 0.9;" />
-  </div>
+  # My Web: comin soon
 
   <h2 style="border-bottom: 1px dashed #ff0000; padding-bottom: 5px;">
     // [LOG] N0T.IDENTITY
